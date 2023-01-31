@@ -50,8 +50,7 @@
     <header class="bgimg w3-display-container w3-grayscale-min" id="home">
         <div class="w3-display-middle w3-center">
             <span class="w3-text-white w3-hide-small" style="font-size:100px">Taniti<br>Island Tourism</span>
-            <span class="w3-text-white w3-hide-large w3-hide-medium" style="font-size:60px"><b>thin<br>CRUST
-                    PIZZA</b></span>
+            <span class="w3-text-white w3-hide-large w3-hide-medium" style="font-size:60px"><b>Taniti Island Tourism</b></span>
             <p><a href="#explore" class="w3-button w3-xxlarge w3-black">Explore the Island</a></p>
         </div>
     </header>
@@ -115,10 +114,10 @@
                 <h1><b>History Museum</b> <span class="w3-right w3-tag w3-dark-grey w3-round">$</span></h1>
                 <hr>
 
-                <h1><b>Pubs & Microbrews</b> <span class="w3-right w3-tag w3-dark-grey w3-round">$</span></h1>
+                <h1><b>Movie Theater</b> <span class="w3-right w3-tag w3-dark-grey w3-round">$</span></h1>
                 <hr>
 
-                <h1><b>Movie Theater</b> <span class="w3-right w3-tag w3-dark-grey w3-round">$</span></h1>
+                <h1><b>Pubs</b> <span class="w3-right w3-tag w3-dark-grey w3-round">$</span></h1>
                 <hr>
 
                 <h1><b>Rainforest Hikes</b> <span class="w3-right w3-tag w3-dark-grey w3-round">$</span></h1>
@@ -193,7 +192,7 @@
                 <h1><b>Bus Tour</b> <span class="w3-right w3-tag w3-dark-grey w3-round">$</span></h1>
                 <hr>
 
-                <h1><b>Bike</b> <span class="w3-right w3-tag w3-dark-grey w3-round">$</span></h1>
+                <h1><b>Bike Tour</b> <span class="w3-right w3-tag w3-dark-grey w3-round">$</span></h1>
                 <hr>
 
                 <h1><b>Hiking Tours</b> <span class="w3-right w3-tag w3-dark-grey w3-round">$</span></h1>
@@ -208,18 +207,18 @@
     <div class="w3-container w3-padding-64 w3-red w3-grayscale w3-xlarge" id="about">
         <div class="w3-content">
             <h1 class="w3-center w3-jumbo" style="margin-bottom:64px">About</h1>
-            <p>The Island of Taniti is considered one of the world’s best travel places and is a globally-recognized vacation spot that is fun for the whole family.
-Many Tanitian residents speak fluent English and numerous attractions attract tourists year-round.
+            <p>The island of Taniti is one of the world’s best travel destinations. It is a globally recognized vacation spot that is fun for the whole family.
+Many Tanitian residents speak fluent English, and numerous attractions attract tourists year-round. Taniti enjoys many national holidays (many tourist attractions and restaurants will be closed on holidays), so visitors should plan accordingly.
             </p>
             <p><strong>Electricity</strong>
             <p>Power outlets are 120 volts (the same as in the United States). </p>
             <p><strong>Alcohol</strong>
-            <p>Alcohol is not allowed to be served or sold between the hours of midnight and 9:00 a.m. 
-The drinking age on Taniti is 18 and the drinking age is not strictly enforced.</p>
+            <p>Alcohol is not allowed to be served or sold between midnight and 9:00 am. 
+The drinking age in Taniti is 18 and it is not strictly enforced.</p>
             <p><strong>Medical Care</strong>
             <p>There is one hospital and several clinics. The hospital has many multilingual employees.
-Violent crime is very rare on Taniti, but as tourism increases, there are more reports of pickpocketing and other petty crimes. 
-Taniti enjoys a large number of national holidays, and many tourist attractions and restaurants will be closed on holidays, so visitors should plan accordingly.</p>
+Violent crime is very rare in Taniti, but as tourism increases, there are more reports of pickpocketing and other petty crimes. 
+</p>
             <p><strong>Currency</strong>
             <p>Taniti uses the U.S. dollar as its currency, but many businesses will also accept euros and yen. Several banks facilitate currency exchange, and many businesses accept major credit cards.</p>
             <img src="https://www.w3schools.com/w3images/onepage_restaurant.jpg" style="width:100%" class="w3-margin-top w3-margin-bottom"
